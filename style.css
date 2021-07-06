@@ -10,7 +10,7 @@ h1{
     font-weight: 900;
 }
 h2{
-    font-size: 40px;
+    font-size: 35px;
     font-weight: 900;
     text-align: justify;
     color: rgb(90, 89, 89);
@@ -63,11 +63,35 @@ section{
         
         background-image: url(7.png);
         background-repeat: round;
-        padding-left: 20px;
+        padding-left: 20px;t
         padding-right: 20px;
         }
         .recipies-food{
             text-align: center;
         }
+        
+        }
+        .practis{
+            width: 50%%;
+            display: inline-flex;
+            }
+        .practis img{
+            width: 100%;
+            padding: 2opx;
+            border-radius: 10px;
+            margin-bottom: 5%;
+            }
+            .web-deb{
+                width: 80%;
+                margin-left: 5%;
+                margin-right: 5%;
+                
+                padding: 5%;
+                box-shadow: 10px 10px 10px 10px gray;
+                border-radius: 30px;
+                text-align: justify;
+                
+            }
+            
         
     
